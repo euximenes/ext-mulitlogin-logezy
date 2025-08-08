@@ -1,0 +1,265 @@
+{
+  "apps": [
+    {
+      "name": "Adobe Stock",
+      "description": "Banco de imagens, templates 3D profissionais integrados ao ecossistema Adobe (Não inclui vídeo).",
+      "icon": "icons/icon-adobestock.png",
+      "domain": "stock.adobe.com",
+      "logins": [
+        {
+          "label": "Acessar Adobe Stock",
+          "file": "adobestock.txt",
+          "url": "https://stock.adobe.com/br/"
+        }
+      ]
+    },
+    {
+      "name": "Baixar Design",
+      "description": "Portal de recursos e assets exclusivos para designers aprimorarem seus projetos.",
+      "icon": "icons/icon-baixardesign.png",
+      "domain": "app.baixardesign.com.br",
+      "logins": [
+        {
+          "label": "Acessar Baixar Design",
+          "file": "baixardesign.txt",
+          "url": "https://app.baixardesign.com.br/"
+        }
+      ]
+    },
+    {
+      "name": "Canva PRO",
+      "description": "Plataforma de design online para criar artes, vídeos e apresentações de forma fácil.",
+      "icon": "icons/icon-canva.png",
+      "domain": "canva.com",
+      "logins": [
+        {
+          "label": "Acessar Canva PRO",
+          "file": "canvapro.txt",
+          "url": "https://www.canva.com/"
+        }
+      ]
+    },
+    {
+      "name": "Design Express",
+      "description": "Treinamento focado para aprender design de forma rápida e prática.",
+      "icon": "icons/icon-curso.png",
+      "domain": "curso.agenciasetup.com.br",
+      "logins": [
+        {
+          "label": "Acessar Treinamento",
+          "file": "agenciasetup.txt",
+          "url": "https://curso.agenciasetup.com.br/dashboard"
+        }
+      ]
+    },
+    {
+      "name": "Envato Elements",
+      "description": "Downloads ilimitados de milhões de assets criativos e templates.",
+      "icon": "icons/icon-envato.png",
+      "domain": "elements.envato.com",
+      "logins": [
+        {
+          "label": "Acessar Envato",
+          "file": "envato.txt",
+          "url": "https://elements.envato.com/"
+        }
+      ]
+    },
+    {
+      "name": "Flaticon",
+      "description": "O maior banco de dados de ícones do mundo.",
+      "icon": "icons/icon-flaticon.png",
+      "domain": "flaticon.com",
+      "logins": [
+        {
+          "label": "Acessar Flaticon",
+          "file": "flaticon.txt",
+          "url": "https://www.flaticon.com/"
+        }
+      ]
+    },
+    {
+      "name": "Freepik Premium Plus",
+      "description": "Todos os benefícios do Premium, com acesso ilimitado a todo o catálogo de recursos.",
+      "icon": "icons/icon-freepikp.png",
+      "domain": "freepik.com",
+      "logins": [
+        {
+          "label": "Acessar Freepik Premium+",
+          "file": "freepikp1.txt",
+          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools"
+        }
+      ]
+    },
+    {
+      "name": "Freepik Premium",
+      "description": "Acesso a milhões de vetores, fotos e arquivos PSD de alta qualidade.",
+      "icon": "icons/icon-freepik.png",
+      "domain": "freepik.com",
+      "logins": [
+        {
+          "label": "Freepik Premium - Conta 1",
+          "file": "freepik1.txt",
+          "url": "https://www.freepik.com"
+        },
+        {
+          "label": "Freepik Premium - Conta 2",
+          "file": "freepik2.txt",
+          "url": "https://www.freepik.com"
+        },
+        {
+          "label": "Freepik Premium - Conta 3",
+          "file": "freepik3.txt",
+          "url": "https://www.freepik.com"
+        },
+        {
+          "label": "Freepik Premium - Conta 4",
+          "file": "freepik4.txt",
+          "url": "https://www.freepik.com"
+        },
+        {
+          "label": "Freepik Premium - Conta 5",
+          "file": "freepik5.txt",
+          "url": "https://www.freepik.com"
+        }
+      ]
+    },
+    {
+      "name": "Vecteezy",
+      "description": "Explore milhões de vetores, fotos e vídeos de alta qualidade para seus projetos.",
+      "icon": "icons/icon-vecteezy.png",
+      "domain": "vecteezy.com",
+      "logins": [
+        {
+          "label": "Acessar Vecteezy",
+          "file": "vecteezy.txt",
+          "url": "https://www.vecteezy.com/"
+        }
+      ]
+    },
+    {
+      "name": "Claude AI",
+      "description": "Assistente de IA de última geração para conversas e criação de conteúdo.",
+      "icon": "icons/icon-claude.png",
+      "domain": "claude.ai",
+      "logins": [
+        {
+          "label": "Acessar Claude AI",
+          "file": "claude1.txt",
+          "url": "https://claude.ai/chats"
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT Plus",
+      "description": "Acesso prioritário aos modelos mais recentes da OpenAI, como o GPT-4.",
+      "icon": "icons/icon-gptplus.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        {
+          "label": "Acessar GPT Plus",
+          "file": "gptplus1.txt",
+          "url": "https://chatgpt.com/?model=4o"
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT Pro",
+      "description": "Versão profissional com maiores limites e recursos para equipes e empresas.",
+      "icon": "icons/icon-gptpro.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        {
+          "label": "GPT Pro - Conta 1",
+          "file": "gptpro1.txt",
+          "url": "https://chatgpt.com/?model=4o"
+        },
+        {
+          "label": "GPT Pro - Conta 2",
+          "file": "gptpro2.txt",
+          "url": "https://chatgpt.com/?model=4o"
+        },
+        {
+          "label": "GPT Pro - Conta 3",
+          "file": "gptpro3.txt",
+          "url": "https://chatgpt.com/?model=4o"
+        }
+      ]
+    },
+    {
+      "name": "Google Gemini",
+      "description": "O modelo de IA mais avançado do Google para tarefas complexas e criativas.",
+      "icon": "icons/icon-gemini.png",
+      "domain": "gemini.google.com",
+      "logins": [
+        {
+          "label": "Acessar Gemini",
+          "file": "gemini.txt",
+          "url": "https://gemini.google.com/app?hl=pt-BR"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "Motor de busca conversacional que fornece respostas diretas com fontes e citações.",
+      "icon": "icons/icon-perplexity.png",
+      "domain": "perplexity.ai",
+      "logins": [
+        {
+          "label": "Acessar Perplexity",
+          "file": "perplexity.txt",
+          "url": "https://www.perplexity.ai/"
+        }
+      ]
+    },
+    {
+      "name": "Sora",
+      "description": "Modelo de IA da OpenAI que cria vídeos realistas a partir de descrições de texto.",
+      "icon": "icons/icon-sora.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        {
+          "label": "Sora - Conta 1",
+          "file": "gptpro1.txt",
+          "url": "https://sora.chatgpt.com/explore"
+        },
+        {
+          "label": "Sora - Conta 2",
+          "file": "gptpro2.txt",
+          "url": "https://sora.chatgpt.com/explore"
+        },
+        {
+          "label": "Sora - Conta 3",
+          "file": "gptpro3.txt",
+          "url": "https://sora.chatgpt.com/explore"
+        }
+      ]
+    },
+    {
+      "name": "SupeGrok",
+      "description": "IA da xAI com acesso a informações em tempo real e um tom de humor característico.",
+      "icon": "icons/icon-supergrok.png",
+      "domain": "grok.com",
+      "logins": [
+        {
+          "label": "Acessar SuperGrok",
+          "file": "supergrok.txt",
+          "url": "https://grok.com/"
+        }
+      ]
+    },
+    {
+      "name": "Shutterstock",
+      "description": "imagens, vídeos, músicas e ferramentas de edição, com foco em atender às necessidades de profissionais criativos e empresas de todos os tamanhos.",
+      "icon": "icons/icon-shutterstock.png",
+      "domain": "shutterstock.com",
+      "logins": [
+        {
+          "label": "Acessar Shutterstock",
+          "file": "shutterstock.txt",
+          "url": "https://www.shutterstock.com/pt/"
+        }
+      ]
+    }
+  ]
+}
