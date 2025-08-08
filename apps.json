@@ -85,58 +85,6 @@
       ]
     },
     {
-      "name": "Freepik Premium Plus",
-      "description": "Todos os benefícios do Premium, com acesso ilimitado a todo o catálogo de recursos.",
-      "icon": "icons/icon-freepikp.png",
-      "domain": "freepik.com",
-      "logins": [
-        {
-          "label": "Acessar Freepik Premium+",
-          "file": "freepikp1.txt",
-          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools",
-          "inMaintenance": false
-        }
-      ]
-    },
-    {
-      "name": "Freepik Premium",
-      "description": "Acesso a milhões de vetores, fotos e arquivos PSD de alta qualidade.",
-      "icon": "icons/icon-freepik.png",
-      "domain": "freepik.com",
-      "logins": [
-        {
-          "label": "Freepik Premium - Conta 1",
-          "file": "freepik1.txt",
-          "url": "https://www.freepik.com",
-          "inMaintenance": false
-        },
-        {
-          "label": "Freepik Premium - Conta 2",
-          "file": "freepik2.txt",
-          "url": "https://www.freepik.com",
-          "inMaintenance": false
-        },
-        {
-          "label": "Freepik Premium - Conta 3",
-          "file": "freepik3.txt",
-          "url": "https://www.freepik.com",
-          "inMaintenance": false
-        },
-        {
-          "label": "Freepik Premium - Conta 4",
-          "file": "freepik4.txt",
-          "url": "https://www.freepik.com",
-          "inMaintenance": false
-        },
-        {
-          "label": "Freepik Premium - Conta 5",
-          "file": "freepik5.txt",
-          "url": "https://www.freepik.com",
-          "inMaintenance": false
-        }
-      ]
-    },
-    {
       "name": "Vecteezy",
       "description": "Explore milhões de vetores, fotos e vídeos de alta qualidade para seus projetos.",
       "icon": "icons/icon-vecteezy.png",
@@ -160,46 +108,6 @@
           "label": "Acessar Claude AI",
           "file": "claude1.txt",
           "url": "https://claude.ai/chats",
-          "inMaintenance": false
-        }
-      ]
-    },
-    {
-      "name": "ChatGPT Plus",
-      "description": "Acesso prioritário aos modelos mais recentes da OpenAI, como o GPT-4.",
-      "icon": "icons/icon-gptplus.png",
-      "domain": "chatgpt.com",
-      "logins": [
-        {
-          "label": "Acessar GPT Plus",
-          "file": "gptplus1.txt",
-          "url": "https://chatgpt.com/?model=4o",
-          "inMaintenance": false
-        }
-      ]
-    },
-    {
-      "name": "ChatGPT Pro",
-      "description": "Versão profissional com maiores limites e recursos para equipes e empresas.",
-      "icon": "icons/icon-gptpro.png",
-      "domain": "chatgpt.com",
-      "logins": [
-        {
-          "label": "GPT Pro - Conta 1",
-          "file": "gptpro1.txt",
-          "url": "https://chatgpt.com/?model=4o",
-          "inMaintenance": false
-        },
-        {
-          "label": "GPT Pro - Conta 2",
-          "file": "gptpro2.txt",
-          "url": "https://chatgpt.com/?model=4o",
-          "inMaintenance": false
-        },
-        {
-          "label": "GPT Pro - Conta 3",
-          "file": "gptpro3.txt",
-          "url": "https://chatgpt.com/?model=4o",
           "inMaintenance": false
         }
       ]
@@ -233,32 +141,6 @@
       ]
     },
     {
-      "name": "Sora",
-      "description": "Modelo de IA da OpenAI que cria vídeos realistas a partir de descrições de texto.",
-      "icon": "icons/icon-sora.png",
-      "domain": "chatgpt.com",
-      "logins": [
-        {
-          "label": "Sora - Conta 1",
-          "file": "gptpro1.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        },
-        {
-          "label": "Sora - Conta 2",
-          "file": "gptpro2.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        },
-        {
-          "label": "Sora - Conta 3",
-          "file": "gptpro3.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        }
-      ]
-    },
-    {
       "name": "SupeGrok",
       "description": "IA da xAI com acesso a informações em tempo real e um tom de humor característico.",
       "icon": "icons/icon-supergrok.png",
@@ -274,7 +156,7 @@
     },
     {
       "name": "Shutterstock",
-      "description": "imagens, vídeos, músicas e ferramentas de edição, com foco em atender às necessidades de profissionais criativos e empresas de todos os tamanhos.",
+      "description": "imagens, vídeos, músicas e ferramentas de edição...",
       "icon": "icons/icon-shutterstock.png",
       "domain": "shutterstock.com",
       "logins": [
@@ -284,6 +166,69 @@
           "url": "https://www.shutterstock.com/pt/",
           "inMaintenance": false
         }
+      ]
+    },
+    {
+      "name": "Freepik Premium Plus",
+      "description": "Todos os benefícios do Premium, com acesso ilimitado a todo o catálogo de recursos.",
+      "icon": "icons/icon-freepikp.png",
+      "domain": "freepik.com",
+      "logins": [
+        {
+          "label": "Acessar Freepik Premium+",
+          "file": "freepikp1.txt",
+          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools",
+          "inMaintenance": false
+        }
+      ]
+    },
+    {
+      "name": "Freepik Premium",
+      "description": "Acesso a milhões de vetores, fotos e arquivos PSD de alta qualidade.",
+      "icon": "icons/icon-freepik.png",
+      "domain": "freepik.com",
+      "logins": [
+        { "label": "Freepik Premium - Conta 1", "file": "freepik1.txt", "url": "https://www.freepik.com", "inMaintenance": false },
+        { "label": "Freepik Premium - Conta 2", "file": "freepik2.txt", "url": "https://www.freepik.com", "inMaintenance": false },
+        { "label": "Freepik Premium - Conta 3", "file": "freepik3.txt", "url": "https://www.freepik.com", "inMaintenance": false },
+        { "label": "Freepik Premium - Conta 4", "file": "freepik4.txt", "url": "https://www.freepik.com", "inMaintenance": false },
+        { "label": "Freepik Premium - Conta 5", "file": "freepik5.txt", "url": "https://www.freepik.com", "inMaintenance": false }
+      ]
+    },
+    {
+      "name": "ChatGPT Plus",
+      "description": "Acesso prioritário aos modelos mais recentes da OpenAI, como o GPT-4.",
+      "icon": "icons/icon-gptplus.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        {
+          "label": "Acessar GPT Plus",
+          "file": "gptplus1.txt",
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT Pro",
+      "description": "Versão profissional com maiores limites e recursos para equipes e empresas.",
+      "icon": "icons/icon-gptpro.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        { "label": "GPT Pro - Conta 1", "file": "gptpro1.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false },
+        { "label": "GPT Pro - Conta 2", "file": "gptpro2.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false },
+        { "label": "GPT Pro - Conta 3", "file": "gptpro3.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false }
+      ]
+    },
+    {
+      "name": "Sora",
+      "description": "Modelo de IA da OpenAI que cria vídeos realistas a partir de descrições de texto.",
+      "icon": "icons/icon-sora.png",
+      "domain": "chatgpt.com",
+      "logins": [
+        { "label": "Sora - Conta 1", "file": "gptpro1.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false },
+        { "label": "Sora - Conta 2", "file": "gptpro2.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false },
+        { "label": "Sora - Conta 3", "file": "gptpro3.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false }
       ]
     }
   ]
