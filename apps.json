@@ -9,7 +9,8 @@
         {
           "label": "Acessar Adobe Stock",
           "file": "adobestock.txt",
-          "url": "https://stock.adobe.com/br/"
+          "url": "https://stock.adobe.com/br/",
+          "inMaintenance": false
         }
       ]
     },
@@ -22,7 +23,8 @@
         {
           "label": "Acessar Baixar Design",
           "file": "baixardesign.txt",
-          "url": "https://app.baixardesign.com.br/"
+          "url": "https://app.baixardesign.com.br/",
+          "inMaintenance": false
         }
       ]
     },
@@ -35,7 +37,8 @@
         {
           "label": "Acessar Canva PRO",
           "file": "canvapro.txt",
-          "url": "https://www.canva.com/"
+          "url": "https://www.canva.com/",
+          "inMaintenance": false
         }
       ]
     },
@@ -48,7 +51,8 @@
         {
           "label": "Acessar Treinamento",
           "file": "agenciasetup.txt",
-          "url": "https://curso.agenciasetup.com.br/dashboard"
+          "url": "https://curso.agenciasetup.com.br/dashboard",
+          "inMaintenance": false
         }
       ]
     },
@@ -61,7 +65,8 @@
         {
           "label": "Acessar Envato",
           "file": "envato.txt",
-          "url": "https://elements.envato.com/"
+          "url": "https://elements.envato.com/",
+          "inMaintenance": false
         }
       ]
     },
@@ -74,7 +79,8 @@
         {
           "label": "Acessar Flaticon",
           "file": "flaticon.txt",
-          "url": "https://www.flaticon.com/"
+          "url": "https://www.flaticon.com/",
+          "inMaintenance": false
         }
       ]
     },
@@ -87,7 +93,8 @@
         {
           "label": "Acessar Freepik Premium+",
           "file": "freepikp1.txt",
-          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools"
+          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools",
+          "inMaintenance": false
         }
       ]
     },
@@ -100,27 +107,32 @@
         {
           "label": "Freepik Premium - Conta 1",
           "file": "freepik1.txt",
-          "url": "https://www.freepik.com"
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
         },
         {
           "label": "Freepik Premium - Conta 2",
           "file": "freepik2.txt",
-          "url": "https://www.freepik.com"
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
         },
         {
           "label": "Freepik Premium - Conta 3",
           "file": "freepik3.txt",
-          "url": "https://www.freepik.com"
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
         },
         {
           "label": "Freepik Premium - Conta 4",
           "file": "freepik4.txt",
-          "url": "https://www.freepik.com"
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
         },
         {
           "label": "Freepik Premium - Conta 5",
           "file": "freepik5.txt",
-          "url": "https://www.freepik.com"
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
         }
       ]
     },
@@ -133,7 +145,8 @@
         {
           "label": "Acessar Vecteezy",
           "file": "vecteezy.txt",
-          "url": "https://www.vecteezy.com/"
+          "url": "https://www.vecteezy.com/",
+          "inMaintenance": false
         }
       ]
     },
@@ -146,7 +159,8 @@
         {
           "label": "Acessar Claude AI",
           "file": "claude1.txt",
-          "url": "https://claude.ai/chats"
+          "url": "https://claude.ai/chats",
+          "inMaintenance": false
         }
       ]
     },
@@ -159,7 +173,8 @@
         {
           "label": "Acessar GPT Plus",
           "file": "gptplus1.txt",
-          "url": "https://chatgpt.com/?model=4o"
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
         }
       ]
     },
@@ -172,17 +187,20 @@
         {
           "label": "GPT Pro - Conta 1",
           "file": "gptpro1.txt",
-          "url": "https://chatgpt.com/?model=4o"
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
         },
         {
           "label": "GPT Pro - Conta 2",
           "file": "gptpro2.txt",
-          "url": "https://chatgpt.com/?model=4o"
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
         },
         {
           "label": "GPT Pro - Conta 3",
           "file": "gptpro3.txt",
-          "url": "https://chatgpt.com/?model=4o"
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
         }
       ]
     },
@@ -195,7 +213,8 @@
         {
           "label": "Acessar Gemini",
           "file": "gemini.txt",
-          "url": "https://gemini.google.com/app?hl=pt-BR"
+          "url": "https://gemini.google.com/app?hl=pt-BR",
+          "inMaintenance": false
         }
       ]
     },
@@ -208,7 +227,8 @@
         {
           "label": "Acessar Perplexity",
           "file": "perplexity.txt",
-          "url": "https://www.perplexity.ai/"
+          "url": "https://www.perplexity.ai/",
+          "inMaintenance": false
         }
       ]
     },
@@ -221,17 +241,20 @@
         {
           "label": "Sora - Conta 1",
           "file": "gptpro1.txt",
-          "url": "https://sora.chatgpt.com/explore"
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
         },
         {
           "label": "Sora - Conta 2",
           "file": "gptpro2.txt",
-          "url": "https://sora.chatgpt.com/explore"
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
         },
         {
           "label": "Sora - Conta 3",
           "file": "gptpro3.txt",
-          "url": "https://sora.chatgpt.com/explore"
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
         }
       ]
     },
@@ -244,7 +267,8 @@
         {
           "label": "Acessar SuperGrok",
           "file": "supergrok.txt",
-          "url": "https://grok.com/"
+          "url": "https://grok.com/",
+          "inMaintenance": false
         }
       ]
     },
@@ -257,7 +281,8 @@
         {
           "label": "Acessar Shutterstock",
           "file": "shutterstock.txt",
-          "url": "https://www.shutterstock.com/pt/"
+          "url": "https://www.shutterstock.com/pt/",
+          "inMaintenance": false
         }
       ]
     }
