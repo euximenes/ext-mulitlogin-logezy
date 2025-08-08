@@ -259,32 +259,6 @@
           "inMaintenance": false
         }
       ]
-    },
-    {
-      "name": "Sora",
-      "description": "Modelo de IA da OpenAI que cria vídeos realistas a partir de descrições de texto.",
-      "icon": "icons/icon-sora.png",
-      "domain": "chatgpt.com",
-      "logins": [
-        {
-          "label": "Sora - Conta 1",
-          "file": "gptpro1.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        },
-        {
-          "label": "Sora - Conta 2",
-          "file": "gptpro2.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        },
-        {
-          "label": "Sora - Conta 3",
-          "file": "gptpro3.txt",
-          "url": "https://sora.chatgpt.com/explore",
-          "inMaintenance": false
-        }
-      ]
     }
   ]
 }
