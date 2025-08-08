@@ -6,37 +6,37 @@
       "logins": [
         {
           "label": "Freepik Premium 1",
-          "file": "freepik1.txt",
+          "file": "conta 1.txt",
           "url": "https://www.freepik.com",
           "inMaintenance": false
         },
         {
           "label": "Freepik Premium 2",
-          "file": "freepik2.txt",
+          "file": "conta 2.txt",
           "url": "https://www.freepik.com",
           "inMaintenance": false
         },
         {
           "label": "Freepik Premium 3",
-          "file": "freepik3.txt",
+          "file": "conta 3.txt",
           "url": "https://www.freepik.com",
           "inMaintenance": false
         },
         {
           "label": "Freepik Premium 4",
-          "file": "freepik4.txt",
+          "file": "conta 4.txt",
           "url": "https://www.freepik.com",
           "inMaintenance": false
         },
         {
           "label": "Freepik Premium 5",
-          "file": "freepik5.txt",
+          "file": "conta 5.txt",
           "url": "https://www.freepik.com",
-          "inMaintenance": true
+          "inMaintenance": false
         },
         {
           "label": "Freepik Premium Plus",
-          "file": "freepikp1.txt",
+          "file": "conta plus 1.txt",
           "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools",
           "inMaintenance": false
         }
