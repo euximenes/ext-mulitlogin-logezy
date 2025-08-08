@@ -192,7 +192,7 @@
         { "label": "Freepik Premium - Conta 2", "file": "freepik2.txt", "url": "https://www.freepik.com", "inMaintenance": false },
         { "label": "Freepik Premium - Conta 3", "file": "freepik3.txt", "url": "https://www.freepik.com", "inMaintenance": false },
         { "label": "Freepik Premium - Conta 4", "file": "freepik4.txt", "url": "https://www.freepik.com", "inMaintenance": false },
-        { "label": "Freepik Premium - Conta 5", "file": "freepik5.txt", "url": "https://www.freepik.com", "inMaintenance": true }
+        { "label": "Freepik Premium - Conta 5", "file": "freepik5.txt", "url": "https://www.freepik.com", "inMaintenance": false }
       ]
     },
     {
