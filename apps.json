@@ -156,7 +156,7 @@
     },
     {
       "name": "Shutterstock",
-      "description": "imagens, vídeos, músicas e ferramentas de edição...",
+      "description": "imagens, vídeos, músicas e ferramentas de edição, com foco em atender às necessidades de profissionais criativos e empresas de todos os tamanhos.",
       "icon": "icons/icon-shutterstock.png",
       "domain": "shutterstock.com",
       "logins": [
@@ -188,11 +188,36 @@
       "icon": "icons/icon-freepik.png",
       "domain": "freepik.com",
       "logins": [
-        { "label": "Freepik Premium - Conta 1", "file": "freepik1.txt", "url": "https://www.freepik.com", "inMaintenance": false },
-        { "label": "Freepik Premium - Conta 2", "file": "freepik2.txt", "url": "https://www.freepik.com", "inMaintenance": false },
-        { "label": "Freepik Premium - Conta 3", "file": "freepik3.txt", "url": "https://www.freepik.com", "inMaintenance": false },
-        { "label": "Freepik Premium - Conta 4", "file": "freepik4.txt", "url": "https://www.freepik.com", "inMaintenance": false },
-        { "label": "Freepik Premium - Conta 5", "file": "freepik5.txt", "url": "https://www.freepik.com", "inMaintenance": true }
+        {
+          "label": "Freepik Premium - Conta 1",
+          "file": "freepik1.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 2",
+          "file": "freepik2.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 3",
+          "file": "freepik3.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 4",
+          "file": "freepik4.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 5",
+          "file": "freepik5.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        }
       ]
     },
     {
@@ -215,9 +240,24 @@
       "icon": "icons/icon-gptpro.png",
       "domain": "chatgpt.com",
       "logins": [
-        { "label": "GPT Pro - Conta 1", "file": "gptpro1.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false },
-        { "label": "GPT Pro - Conta 2", "file": "gptpro2.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false },
-        { "label": "GPT Pro - Conta 3", "file": "gptpro3.txt", "url": "https://chatgpt.com/?model=4o", "inMaintenance": false }
+        {
+          "label": "GPT Pro - Conta 1",
+          "file": "gptpro1.txt",
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
+        },
+        {
+          "label": "GPT Pro - Conta 2",
+          "file": "gptpro2.txt",
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
+        },
+        {
+          "label": "GPT Pro - Conta 3",
+          "file": "gptpro3.txt",
+          "url": "https://chatgpt.com/?model=4o",
+          "inMaintenance": false
+        }
       ]
     },
     {
@@ -226,9 +266,24 @@
       "icon": "icons/icon-sora.png",
       "domain": "chatgpt.com",
       "logins": [
-        { "label": "Sora - Conta 1", "file": "gptpro1.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false },
-        { "label": "Sora - Conta 2", "file": "gptpro2.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false },
-        { "label": "Sora - Conta 3", "file": "gptpro3.txt", "url": "https://sora.chatgpt.com/explore", "inMaintenance": false }
+        {
+          "label": "Sora - Conta 1",
+          "file": "gptpro1.txt",
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
+        },
+        {
+          "label": "Sora - Conta 2",
+          "file": "gptpro2.txt",
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
+        },
+        {
+          "label": "Sora - Conta 3",
+          "file": "gptpro3.txt",
+          "url": "https://sora.chatgpt.com/explore",
+          "inMaintenance": false
+        }
       ]
     }
   ]
