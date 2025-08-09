@@ -11,13 +11,13 @@
         },
         {
           "label": "GPT Pro 1",
-          "file": "gpt pro 1.txt",
+          "file": "gpt team pessoal.txt",
           "url": "https://chatgpt.com/",
           "inMaintenance": false
         },
         {
-          "label": "GPT Team Pessoal",
-          "file": "gpt team pessoal.txt",
+          "label": "GPT Pro 2",
+          "file": "gpt pro 1.txt",
           "url": "https://chatgpt.com/",
           "inMaintenance": false
         }
