@@ -1,24 +1,24 @@
 {
   "apps": [
     {
-      "domain": "openai.com",
+      "domain": "chatgpt.com",
       "logins": [
         {
           "label": "GPT Plus 1",
           "file": "gpt plus 1.txt",
-          "url": "https://chat.openai.com/",
+          "url": "hhttps://chatgpt.com/",
           "inMaintenance": false
         },
         {
           "label": "GPT Pro 1",
           "file": "gpt pro 1.txt",
-          "url": "https://chat.openai.com/",
+          "url": "https://chatgpt.com/",
           "inMaintenance": false
         },
         {
           "label": "GPT Team Pessoal",
           "file": "gpt team pessoal.txt",
-          "url": "https://chat.openai.com/",
+          "url": "https://chatgpt.com/",
           "inMaintenance": false
         }
       ]
