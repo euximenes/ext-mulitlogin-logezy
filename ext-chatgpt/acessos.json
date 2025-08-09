@@ -1,25 +1,24 @@
 {
   "apps": [
     {
-      "name": "ChatGPT",
-      "domain": "chatgpt.com",
+      "domain": "openai.com",
       "logins": [
         {
-          "label": "ChatGPT Plus 1",
-          "file": "gpt plus 1",
-          "url": "https://chatgpt.com/",
+          "label": "GPT Plus 1",
+          "file": "gpt plus 1.txt",
+          "url": "https://chat.openai.com/",
           "inMaintenance": false
         },
         {
-          "label": "ChatGPT Pro 1",
-          "file": "gpt team pessoal",
-          "url": "https://chatgpt.com/",
+          "label": "GPT Pro 1",
+          "file": "gpt pro 1.txt",
+          "url": "https://chat.openai.com/",
           "inMaintenance": false
         },
         {
-          "label": "ChatGPT Pro 2",
-          "file": "gpt pro 1",
-          "url": "https://chatgpt.com/",
+          "label": "GPT Team Pessoal",
+          "file": "gpt team pessoal.txt",
+          "url": "https://chat.openai.com/",
           "inMaintenance": false
         }
       ]
