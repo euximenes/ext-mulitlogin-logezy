@@ -1,0 +1,54 @@
+{
+  "apps": [
+    {
+      "name": "Freepik Premium Plus",
+      "description": "Todos os benefícios do Premium, com acesso ilimitado a todo o catálogo de recursos.",
+      "domain": "freepik.com",
+      "logins": [
+        {
+          "label": "Acessar Freepik Premium+",
+          "file": "freepikp1.txt",
+          "url": "https://br.freepik.com/pikaso/ai-image-generator#from_element=pinned_tools",
+          "inMaintenance": false
+        }
+      ]
+    },
+    {
+      "name": "Freepik Premium",
+      "description": "Acesso a milhões de vetores, fotos e arquivos PSD de alta qualidade.",
+      "domain": "freepik.com",
+      "logins": [
+        {
+          "label": "Freepik Premium - Conta 1",
+          "file": "freepik1.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 2",
+          "file": "freepik2.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 3",
+          "file": "freepik3.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 4",
+          "file": "freepik4.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        },
+        {
+          "label": "Freepik Premium - Conta 5",
+          "file": "freepik5.txt",
+          "url": "https://www.freepik.com",
+          "inMaintenance": false
+        }
+      ]
+    }
+  ]
+}
